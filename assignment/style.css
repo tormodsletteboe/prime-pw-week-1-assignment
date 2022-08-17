@@ -10,3 +10,40 @@
 
 /* Change the font-family of your list */
 
+body{
+    background-color: slategrey;
+    margin: 0%;
+    
+}
+header{
+    background-color: orange;
+}
+footer{
+    background-color: orange;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+h3{
+    margin-left: 1%;
+    
+}
+p{
+    color: yellow;
+    font-style: italic;
+    margin-left: 1%;
+    
+    
+}
+img{
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    border-left: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    margin-left: 1%;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
